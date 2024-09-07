@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "Eigen",
+    name: "Eigen-SPM",
     platforms: [
         .macOS(.v11)
     ],
