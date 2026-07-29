@@ -32,12 +32,12 @@ let package = Package(
 //        )
         .binaryTarget(
             name: "Eigen",
-            url: "https://github.com/JuanCRoblesDev/Eigen-SPM/releases/download/v1.0.1/Eigen.xcframework.zip",
+            url: "https://github.com/AccidentalTheatre/Eigen-SPM/releases/download/v1.0.1/Eigen.xcframework.zip",
             checksum: "534c6a7e126420f07653aac3c86ddeb2c16aab6d50476cd2e7fa08f9b1f3953f"
         ),
         .binaryTarget(
             name: "EigenLapack",
-            url: "https://github.com/JuanCRoblesDev/Eigen-SPM/releases/download/v1.0.1/EigenLapack.xcframework.zip",
+            url: "https://github.com/AccidentalTheatre/Eigen-SPM/releases/download/v1.0.1/EigenLapack.xcframework.zip",
             checksum: "8e905b388e0c2937aa65bf6d57164eab193de2e15236657404e2509215f3c6cf"
         )
     ],
